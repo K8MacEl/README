@@ -13,7 +13,7 @@ I have successfully led several software development projects in my former roles
 
 My proficiency in languages and frameworks such as JavaScript, HTML, CSS, Python, Express, React, and NodeJS, coupled with my experience in database management using MongoDB, PostgreSQL, and Django position me well to contribute effectively to your team. I am well versed in RESTful APIs, have built full stack applications with JSON data transfers to MongoDB, have a strong foundation of JavaScript, and enjoy the front end element of CSS and HTML. Most recently, I built a full MERN (MongoDB, Express, React, NodeJS) stack web based application, HQSpec, as a freelance project to improve the process of public housing authorities requesting inspections for housing choice voucher properties. I am also currently working with clients to build their own professional portfolios on Wordpress as well as working with smaller nonprofits to enhance their websites.
 
-After working with small start-up nonprofits, I am very comfortable juggling multiple priorities, I take curveballs daily and am always problem solving. Additionally learning from a Bootcamp has pushed me to build full stack web based applications with a one week turnaround.  I am a skilled juggler and a fast mover with a balance of attention to detail and intentionality expected of my stakeholders and know how to be efficient in my work. When the clock starts ticking I take initiative. Here is a link to my <src=https://katemcelhaney.com/14-2/>resume </scr> I look forward to further discussing this position with you.
+After working with small start-up nonprofits, I am very comfortable juggling multiple priorities, I take curveballs daily and am always problem solving. Additionally learning from a Bootcamp has pushed me to build full stack web based applications with a one week turnaround.  I am a skilled juggler and a fast mover with a balance of attention to detail and intentionality expected of my stakeholders and know how to be efficient in my work. When the clock starts ticking I take initiative. Here is a link to my <a href="https://katemcelhaney.com/14-2/">resume.</a> I look forward to further discussing this position with you.
 
 Sincerely,
 
@@ -22,4 +22,4 @@ Kate McElhaney
 kate@katemcelhaney.com
 
 
-# README
+
